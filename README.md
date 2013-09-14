@@ -24,3 +24,7 @@ The first line of input contains two integers n and m (1 ≤ n ≤ 50000, 1 ≤ 
 
 Output
 Output a list of the m songs with the highest quality qi, in decreasing order of quality. If two songs have the same quality, give precedence to the one appearing first on the album (presumably there was a reason for the producers to put that song before the other).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/szines/snippets/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
