@@ -1,7 +1,8 @@
-require 'euler_151/batch'
-require 'euler_151/start'
+require 'pry'
+require 'lib/batch.rb'
+require 'lib/start.rb'
+require 'lib/envelope.rb'
 
 module Euler151
-
 
 end

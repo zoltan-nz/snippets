@@ -5,6 +5,9 @@ module Euler151
 
     end
 
+    def run
+      binding.pry
+    end
 
 
   end

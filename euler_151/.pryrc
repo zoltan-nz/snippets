@@ -1,0 +1,1 @@
+load 'euler_151.rb'
